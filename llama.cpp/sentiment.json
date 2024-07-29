@@ -1,0 +1,5 @@
+{
+    "prompt": ""Analyze the text in the content and evaluate the overall sentiment. Answer with just \"Positive\", \"Negative\", or \"Neutral\"",
+    "anti_prompt": "User:",
+    "assistant_name": "Assistant:"
+}
